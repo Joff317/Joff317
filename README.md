@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joff317</h1>
 
-- 🔭 I’m currently working on React and Rails
+- 🔭 I’m currently working on React and Express/MongoDB
 
-- 🌱 I’m currently learning **React and Rails**
+- 🌱 I’m currently learning **React and MongoDB**
 
 - 📫 How to reach me **j.freixanet@hotmail.com**
 
