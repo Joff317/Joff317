@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on React and Express/MongoDB
 
-- 🌱 I’m currently learning **React and MongoDB**
+- 🌱 I’m currently learning **Next.JS and Typescript**
 
 - 📫 How to reach me **j.freixanet@hotmail.com**
 
